@@ -1,3 +1,3 @@
-module github.com/milhamap/go-say-hello.git
+module github.com/milhamap/go-say-hello
 
 go 1.21.3
